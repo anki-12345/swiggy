@@ -1,0 +1,5 @@
+echo "# Meesho.app">>README.md
+git init
+git add README.md
+git commit -n "first commit"
+git brancjh -M main
